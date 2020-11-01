@@ -9,4 +9,3 @@ Theme is One Dark
 - Desktop entry
 - Hidecursor
 - Newterm
-- Scrollback (including scrollback mouse and scrollback mouse altscreen)
