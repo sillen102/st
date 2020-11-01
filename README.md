@@ -5,3 +5,4 @@ Theme is One Dark
 ## Applied patches
 - Alpha
 - Bold is not bright
+- Newterm
